@@ -1,4 +1,4 @@
-# Projects I completed for Udacity's Data Structure and Algorithms Nanodegree
+## Projects I completed for Udacity's Data Structure and Algorithms Nanodegree
 
 This repo has a range of data structures and algorithms written in Python
 
