@@ -1,8 +1,8 @@
-## Projects I completed for Udacity's Data Structures and Algorithms Nanodegree
+## Data Structures and Algorithms Nanodegree Projects
 
-This repo has a range of data structures and algorithms written in Python
+Data structures and algorithms written in Python
 
-### Some of the files include code for
+### Sample of Algorthms and Data Structures
 - Huffman Encoding
 - A star path finding
 - Tries
